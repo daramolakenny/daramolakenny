@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daramolakenny
 - 👀 I’m interested in learning to acquiring the needed skills.
-- 🌱 I’m currently learning React.Js
+- 🌱 I’m still learning Core of React.Js
 <!---
 daramolakenny/daramolakenny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
