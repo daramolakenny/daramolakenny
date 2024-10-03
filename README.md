@@ -1,11 +1,19 @@
-- 👋 Hi, I’m @daramolakenny
-- 👀 I’m interested in learning to acquiring the needed skills.
-- 🌱 I’m still learning Core of React.Js
-<!---
-daramolakenny/daramolakenny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
+# Hi there! 👋
+I'm Daramola Kehinde, a passionate React developer from Lagos, Nigeria. I love building interactive and dynamic web applications.
+
+## 🚀 Skills
+- **Frontend:** React, Redux, JavaScript, HTML, CSS, Tailwind CSS
+- **Backend:** Node.js, Express
+- **Tools:** Git, GitHub, VS Code
+
+## 🛠 Projects
+- Portfolio Website: A personal portfolio website to showcase my projects and skills.
+- Weather App: A weather forecasting app built with React and OpenWeather API.
+
+
+## 📫 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/)
+- [Email](daramolakenny18@gmail.com)
+
+## 🎉 Fun Facts
+- I love coding challenges
