@@ -2,13 +2,14 @@
 I'm Daramola Kehinde, a passionate React developer from Lagos, Nigeria. I love building interactive and dynamic web applications.
 
 ## 🚀 Skills
-- **Frontend:** React, Redux, JavaScript, HTML, CSS, Tailwind CSS
-- **Backend:** Node.js, Express
+- **Frontend:** React, Redux, JavaScript, HTML, CSS, Tailwind.CSS
+- **Backend:** Node.js, Express, EJS, Postman, MySQL.
 - **Tools:** Git, GitHub, VS Code
 
 ### 🌟 Highlights
 - **Experience:** 2 years of experience in web development.
 - **Education:** B.Sc. in Library and Information Science from Ekiti State University && Diploma in Web Development with Python from Aptech Computer School.
+-  **Education:** Web Development with Python at Aptech Computer Center. OGUN State Nigeri.
 - **Interests:** Web development, open-source contributions, and continuous learning.
 
 ### 🌱 Currently Learning
