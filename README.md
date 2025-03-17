@@ -18,8 +18,7 @@ I'm Daramola Kehinde, a passionate React developer from Lagos, Nigeria. I love b
 I'm currently diving deeper into advanced React.
 
 ## 🛠 Projects
-- Portfolio Website: A personal portfolio website to showcase my projects and skills.
-- Weather App: A weather forecasting app built with React and OpenWeather API.
+- Portfolio Website: https://portfolio-ecru-phi-61.vercel.app/
 
 ## 📫 Contact Me
 - in/daramola-kehinde-14028b292
